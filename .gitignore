@@ -1,15 +1,5 @@
 
 PupilInterface/PupilInterface/bin/
 PupilInterface/PupilInterface/obj/
-
-PupilInterface/.vs/ProjectEvaluation/
-
-PupilInterface/.vs/PupilInterface/DesignTimeBuild/
-
-*.vsidx
-
-*.lock
-
-PupilInterface/.vs/PupilInterface/v16/
-
-PupilInterface/.vs/PupilInterface/v17/
+PupilInterface/.vs/
+PupilInterface/.vs/PupilInterface/v16
